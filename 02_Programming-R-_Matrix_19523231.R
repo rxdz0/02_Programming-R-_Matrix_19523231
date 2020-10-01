@@ -46,9 +46,8 @@ K
 
 #4.5
 G
-G * solve(G)
+G %% solve(G)
 
-R <- G * solve(G)
 
 solve(G)
 
